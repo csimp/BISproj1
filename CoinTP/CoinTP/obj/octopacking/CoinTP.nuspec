@@ -1,0 +1,18 @@
+<package>
+  <metadata>
+    <id>CoinTP</id>
+    <version>1.0.0.0</version>
+    <authors>Cody.Simpson</authors>
+    <owners>Cody.Simpson</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The CoinTP deployment package, built on 11/30/2015</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="C:\Users\cody.simpson\Documents\Visual Studio 2015\Projects\CoinTP\CoinTP\bin\Debug\CoinTP.exe.config" target="CoinTP.exe.config" />
+    <file src="C:\Users\cody.simpson\Documents\Visual Studio 2015\Projects\CoinTP\CoinTP\bin\Debug\CoinTP.exe" target="CoinTP.exe" />
+    <file src="C:\Users\cody.simpson\Documents\Visual Studio 2015\Projects\CoinTP\CoinTP\bin\Debug\CoinTP.pdb" target="CoinTP.pdb" />
+  </files>
+</package>

@@ -1,0 +1,6 @@
+c:\users\cody.simpson\documents\visual studio 2015\Projects\CoinTP\CoinTP\bin\Debug\CoinTP.exe.config
+c:\users\cody.simpson\documents\visual studio 2015\Projects\CoinTP\CoinTP\bin\Debug\CoinTP.exe
+c:\users\cody.simpson\documents\visual studio 2015\Projects\CoinTP\CoinTP\bin\Debug\CoinTP.pdb
+c:\users\cody.simpson\documents\visual studio 2015\Projects\CoinTP\CoinTP\obj\Debug\CoinTP.csprojResolveAssemblyReference.cache
+c:\users\cody.simpson\documents\visual studio 2015\Projects\CoinTP\CoinTP\obj\Debug\CoinTP.exe
+c:\users\cody.simpson\documents\visual studio 2015\Projects\CoinTP\CoinTP\obj\Debug\CoinTP.pdb
