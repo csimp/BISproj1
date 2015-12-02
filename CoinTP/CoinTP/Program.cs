@@ -30,7 +30,6 @@ namespace CoinTP
             {
                 Console.WriteLine("no leap");
             }
-            obj.avg();
 
             Console.ReadLine();
         }
@@ -55,28 +54,6 @@ namespace CoinTP
             {
                 isLeap = false;
             }
-        }
-
-        public void avg()
-        {
-            int m = 23;
-            int[] a = new int[m];
-            int chk = 0;
-            int nxt = 0;
-            Random rnd = new Random();
-            while (chk < 23)
-            {
-                nxt = rnd.Next(1,25);
-                a[chk] = nxt;
-                chk++;
-            }
-            int sum = 0;
-            for (int i = 0; i < m; i++)
-            {
-                sum += a[i];
-            }
-            int avg = sum / m;
-            Console.WriteLine("Average is {0}", avg);
         }
     }
 }
